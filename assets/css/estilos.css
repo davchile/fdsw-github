@@ -37,3 +37,8 @@ body {
   }
 
 }
+
+.navbar-brand p {
+  align-items: center;
+  margin-bottom: 0rem;
+}
